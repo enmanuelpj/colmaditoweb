@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Plátano Verde",
+        "price": 19.99,
+        "description": "Plátano orgánico de Barahona",
+        "imageUrl": "https://saboriza.com/cdn/shop/products/1551208017_5c758e51a11a9_ded953d2-d2da-43e8-8165-3d51723c3f9b.png?v=1697735285"
+    },
+    {
+        "name": "Ron Barceló",
+        "price": 349.99,
+        "description": "Ron añejo dominicano",
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71hn5R9SRbS._AC_UL600_SR600,600_.jpg"
+    },
+    {
+        "name": "Salami",
+        "price": 59.99,
+        "description": "Salami Induveca super especial",
+        "imageUrl": "https://almacen.do/wp-content/uploads/2020/06/Salami-Super-Especial-Induveca-3.5-lbs-Front-2.jpg"
+    },
+    {
+        "name": "Mabí",
+        "price": 34.99,
+        "description": "Mabí dominicano Areíto",
+        "imageUrl": "https://www.sucosorder.com/media/images/org/x2546-5_1-bebida-premium-de-bejuco-indio-mabi-areito-dominikanische-republik.jpg"
+    },
+    {
+        "name": "Chocolate Embajador",
+        "price": 89.99,
+        "description": "Chocolate dominicano para bebidas",
+        "imageUrl": "https://m.media-amazon.com/images/I/71Z4rjRf3+L.jpg"
+    },
+    {
+        "name": "Pan de agua",
+        "price": 49.99,
+        "description": "Delicioso pan de agua",
+        "imageUrl": "https://saboriza.com/cdn/shop/products/Pandeagua1.png?v=1691179359"
+    },
+    {
+        "name": "Cerveza Presidente Light",
+        "price": 39.99,
+        "description": "Cerveza vestida de novia",
+        "imageUrl": "https://supermercadosnacional.com/media/catalog/product/cache/fde49a4ea9a339628caa0bc56aea00ff/2/0/2086831-1.jpg"
+    },
+    {
+        "name": "Leche de coco",
+        "price": 39.99,
+        "description": "Leche de coco La Famosa",
+        "imageUrl": "https://assets-garrido.tiendagoshop.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbVFVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c66b68361d150c4e31b5ad3c9700df0aa0e91121/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2QzNKbGMybDZaVWtpRGpFd01EQjRNVEF3TUFZN0JsUTZER2R5WVhacGRIbEpJZ3RqWlc1MFpYSUdPd1pVT2d0bGVIUmxiblJBQnpvSlkzSnZjRWtpRWpFd01EQjRNVEF3TUNzd0t6QUdPd1pVT2c5aVlXTnJaM0p2ZFc1a1NTSUpibTl1WlFZN0JsUT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--1f7eadae8e3ddef12e0d4863530d14f5465df1ce/184017.png"
+    },
+    {
+        "name": "Hojuelitas",
+        "price": 39.99,
+        "description": "Hojuelitas de maíz BBQ",
+        "imageUrl": "https://supermercadosnacional.com/media/catalog/product/cache/fde49a4ea9a339628caa0bc56aea00ff/2/2/2211686-1.jpg"
+    }
+]
